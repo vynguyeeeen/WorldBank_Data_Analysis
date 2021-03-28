@@ -1,5 +1,5 @@
 # WorldBank Data Analysis
-Completed on Wed Nov 4, 2020
+Completed on Weds Nov 4, 2020
 
 **Contributors**: 
 - Alexander Gruber
