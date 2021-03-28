@@ -9,9 +9,9 @@ Completed on Weds Nov 4, 2020
 - Shivani Singh
 
 ### Overview of Analysis:
-An analysis was conducted to gain in-depth understanding of the Middle East and Russia region - also coded as "Mirage". The following steps were taken to achieve desired results: 
+Region of emphasis was the Middle East and Russia; also coded as "Mirage" in the data set. An analysis was conducted to gain a deeper understanding of the region. Specifically: 
 
-    1) Handled missing values & outliers 
-    2) Located a country that best represented the region
-    3) Discovered top 5 features that made the region ‘unique’
-    4) Identified addtional obsecure findings 
+    1) How to handle missing values & outliers in the data set 
+    2) What country best represented the region
+    3) What made the region 'unique' (top 5 features) 
+    4) If there are any obsecure/interesting findings 
