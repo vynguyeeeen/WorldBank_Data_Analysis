@@ -1,4 +1,4 @@
-# WorldBank Data Analysis
+# World Bank Data Analysis
 Completed on Weds Nov 4, 2020
 
 **Contributors**: 
